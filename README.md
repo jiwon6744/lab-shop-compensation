@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/courses/cna-full/public-full-2022-hw/compensation-correlation-2022
+www.msaez.io/#/courses/cna-full/public-full-2022-hw/dp-frontend-2022
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
